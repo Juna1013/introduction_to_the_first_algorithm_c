@@ -1,7 +1,7 @@
 // 最小2乗法
 #include <stdio.h>
 #include <math.h>
-#include <glib.h>
+#include "glib.h"
 
 #define N 7
 #define M 5
